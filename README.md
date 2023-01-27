@@ -1,11 +1,11 @@
 # 1000bang
-## 🤞 Nice way to meet me
+## 😄 Way to meet me
 
-<img src="https://img.shields.io/badge/NotionBlog-000000?style=for-the-badge&logo=Notion&logoColor=black"/>
+<a href="https://1000bang.notion.site/1000bang-Blog-48801187d2a8458bbc73f9a459a1d9b5"><img src="https://img.shields.io/badge/NotionBlog-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/bang920807@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=black"/>
 
 
-## Skill
+## ✍️ Skill
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=black"/>
